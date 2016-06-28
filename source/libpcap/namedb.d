@@ -31,6 +31,7 @@
  * SUCH DAMAGE.
  */
 
+module libpcap.namedb;
 extern (C):
 
 import core.stdc.stdio;

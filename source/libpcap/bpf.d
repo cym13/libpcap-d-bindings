@@ -69,6 +69,7 @@
  *
  * This also provides our own multiple-include protection.
  */
+module libpcap.bpf;
 extern (C):
 
 /* BSD style release date */

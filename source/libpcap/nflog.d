@@ -25,6 +25,7 @@
  * DAMAGE.
  */
 
+module libpcap.nflog;
 extern (C):
 
 /*

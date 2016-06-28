@@ -31,6 +31,7 @@
  * SUCH DAMAGE.
  */
 
+module libpcap.vlan;
 extern (C):
 
 struct vlan_tag {

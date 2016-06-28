@@ -36,6 +36,7 @@
  * SUCH DAMAGE.
  */
 
+module libpcap.ipnet;
 extern (C):
 
 immutable    IPH_AF_INET    =    2;       /* Matches Solaris's AF_INET */

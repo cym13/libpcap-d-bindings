@@ -31,6 +31,7 @@
  * By Paolo Abeni <paolo.abeni@email.it>
  */
 
+module libpcap.bluetooth;
 extern (C):
 
 /*

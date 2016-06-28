@@ -32,6 +32,7 @@
  * SUCH DAMAGE.
  */
 
+module libpcap.pcap;
 extern (C):
 
 /+
