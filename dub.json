@@ -1,0 +1,9 @@
+{
+	"name": "libpcap-d-bindings",
+	"authors": [
+		"Cédric Picard"
+	],
+	"description": "Libpcap D bindings",
+	"copyright": "Copyright © 2016, Cédric Picard",
+	"license": "BSD License"
+}
