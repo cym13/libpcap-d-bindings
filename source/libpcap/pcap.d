@@ -51,7 +51,7 @@ extern (C):
 #endif
 +/
 
-import bpf;
+import libpcap.bpf;
 import core.stdc.stdio;
 alias void bpf_insn;
 
